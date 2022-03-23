@@ -3,7 +3,7 @@
     "_id": "console.f5trn.local",
     "type": "host",
     "hostname": "console.f5trn.local",
-    "scanTime": "2021-12-12T09:22:47.914Z",
+    "scanTime": "2021-12-13T09:22:47.914Z",
     "binaries": [
       {
         "name": "cron",
