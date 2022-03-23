@@ -2,7 +2,7 @@
   {
     "hostname": "console.f5trn.local",
     "version": "21.08.525",
-    "lastModified": "2021-12-10T09:22:42.319Z",
+    "lastModified": "2021-12-11T09:22:42.319Z",
     "type": "docker",
     "category": "container",
     "connected": true,
