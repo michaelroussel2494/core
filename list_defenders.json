@@ -1,0 +1,455 @@
+[
+  {
+    "hostname": "console.f5trn.local",
+    "version": "21.08.525",
+    "lastModified": "2021-12-10T09:22:42.319Z",
+    "type": "docker",
+    "category": "container",
+    "connected": true,
+    "features": {
+      "proxyListenerType": "none"
+    },
+    "status": {
+      "lastModified": "0001-01-01T00:00:00Z",
+      "filesystem": {
+        "enabled": true
+      },
+      "network": {
+        "enabled": true
+      },
+      "process": {
+        "enabled": true
+      },
+      "runtime": {
+        "enabled": true
+      },
+      "appFirewall": {
+        "enabled": true
+      },
+      "containerNetworkFirewall": {
+        "enabled": true
+      },
+      "hostNetworkFirewall": {
+        "enabled": true
+      },
+      "image": {
+        "scanTime": "2021-12-10T09:22:47.936Z",
+        "completed": true
+      },
+      "container": {
+        "scanTime": "2021-12-10T09:22:47.915Z",
+        "completed": true
+      },
+      "features": {},
+      "hostCustomCompliance": {}
+    },
+    "fqdn": "console.f5trn.local",
+    "collections": [
+      "All",
+      "IT"
+    ],
+    "cloudMetadata": {
+      "accountID": "Non-onboarded cloud accounts"
+    },
+    "certificateExpiration": "2024-12-08T08:31:00Z",
+    "systemInfo": {
+      "cpuCount": 4,
+      "kernelVersion": "5.10.0-9-cloud-amd64",
+      "totalDiskSpaceGB": 39,
+      "freeDiskSpaceGB": 34,
+      "memoryGB": 15.636043548583984
+    },
+    "remoteMgmtSupported": true,
+    "remoteLoggingSupported": true,
+    "firewallProtection": {
+      "enabled": false,
+      "supported": false
+    },
+    "proxy": {
+      "httpProxy": "",
+      "noProxy": "",
+      "ca": "",
+      "user": "",
+      "password": {
+        "encrypted": ""
+      }
+    },
+    "port": 8084,
+    "compatibleVersion": true
+  },
+  {
+    "hostname": "host.f5trn.local",
+    "version": "21.08.525",
+    "lastModified": "2021-12-10T09:22:42.318Z",
+    "type": "serverLinux",
+    "category": "host",
+    "connected": true,
+    "features": {
+      "proxyListenerType": "none"
+    },
+    "status": {
+      "lastModified": "0001-01-01T00:00:00Z",
+      "filesystem": {
+        "enabled": true
+      },
+      "network": {
+        "enabled": true
+      },
+      "process": {
+        "enabled": true
+      },
+      "appFirewall": {
+        "enabled": true
+      },
+      "containerNetworkFirewall": {},
+      "hostNetworkFirewall": {
+        "enabled": true
+      },
+      "features": {},
+      "hostCustomCompliance": {}
+    },
+    "fqdn": "host.f5trn.local",
+    "collections": [
+      "All"
+    ],
+    "cloudMetadata": {
+      "accountID": "Non-onboarded cloud accounts"
+    },
+    "certificateExpiration": "2024-12-01T12:25:00Z",
+    "systemInfo": {
+      "cpuCount": 2,
+      "kernelVersion": "5.10.0-9-cloud-amd64",
+      "totalDiskSpaceGB": 9,
+      "freeDiskSpaceGB": 8,
+      "memoryGB": 1.9385833740234375
+    },
+    "remoteMgmtSupported": true,
+    "remoteLoggingSupported": true,
+    "firewallProtection": {
+      "enabled": false,
+      "supported": false
+    },
+    "proxy": {
+      "httpProxy": "",
+      "noProxy": "",
+      "ca": "",
+      "user": "",
+      "password": {
+        "encrypted": ""
+      }
+    },
+    "port": 8084,
+    "compatibleVersion": true
+  },
+  {
+    "hostname": "docker.f5trn.local",
+    "version": "21.08.525",
+    "lastModified": "2021-12-10T09:22:44.516Z",
+    "type": "docker",
+    "category": "container",
+    "connected": true,
+    "features": {
+      "proxyListenerType": "none"
+    },
+    "status": {
+      "lastModified": "0001-01-01T00:00:00Z",
+      "filesystem": {
+        "enabled": true
+      },
+      "network": {
+        "enabled": true
+      },
+      "process": {
+        "enabled": true
+      },
+      "runtime": {
+        "enabled": true
+      },
+      "appFirewall": {
+        "enabled": true
+      },
+      "containerNetworkFirewall": {
+        "enabled": true
+      },
+      "hostNetworkFirewall": {
+        "enabled": true
+      },
+      "image": {
+        "scanTime": "2021-12-10T09:22:48.526Z",
+        "completed": true
+      },
+      "container": {
+        "scanTime": "2021-12-10T09:22:48.501Z",
+        "completed": true
+      },
+      "features": {},
+      "hostCustomCompliance": {}
+    },
+    "fqdn": "docker.f5trn.local",
+    "collections": [
+      "All",
+      "DEV"
+    ],
+    "cloudMetadata": {
+      "accountID": "Non-onboarded cloud accounts"
+    },
+    "certificateExpiration": "2024-12-01T12:25:00Z",
+    "systemInfo": {
+      "cpuCount": 2,
+      "kernelVersion": "5.10.0-9-cloud-amd64",
+      "totalDiskSpaceGB": 9,
+      "freeDiskSpaceGB": 6,
+      "memoryGB": 15.636455535888672
+    },
+    "remoteMgmtSupported": true,
+    "remoteLoggingSupported": true,
+    "firewallProtection": {
+      "enabled": false,
+      "supported": false
+    },
+    "proxy": {
+      "httpProxy": "",
+      "noProxy": "",
+      "ca": "",
+      "user": "",
+      "password": {
+        "encrypted": ""
+      }
+    },
+    "port": 8084,
+    "compatibleVersion": true
+  },
+  {
+    "hostname": "build.f5trn.local",
+    "version": "21.08.525",
+    "lastModified": "2021-12-10T09:37:02.201Z",
+    "type": "docker",
+    "category": "container",
+    "connected": true,
+    "features": {
+      "proxyListenerType": "none"
+    },
+    "status": {
+      "lastModified": "0001-01-01T00:00:00Z",
+      "appFirewall": {
+        "enabled": true
+      },
+      "features": {},
+      "hostCustomCompliance": {}
+    },
+    "fqdn": "build.f5trn.local",
+    "collections": [
+      "All",
+      "DEV",
+      "IT"
+    ],
+    "cloudMetadata": {
+      "accountID": "Non-onboarded cloud accounts"
+    },
+    "certificateExpiration": "2024-12-01T13:07:00Z",
+    "systemInfo": {
+      "cpuCount": 4,
+      "kernelVersion": "5.4.0-3-amd64",
+      "totalDiskSpaceGB": 96,
+      "freeDiskSpaceGB": 59,
+      "memoryGB": 31.36917495727539
+    },
+    "remoteMgmtSupported": true,
+    "remoteLoggingSupported": true,
+    "firewallProtection": {
+      "enabled": false,
+      "supported": false
+    },
+    "proxy": {
+      "httpProxy": "",
+      "noProxy": "",
+      "ca": "",
+      "user": "",
+      "password": {
+        "encrypted": ""
+      }
+    },
+    "port": 8084,
+    "compatibleVersion": true
+  },
+  {
+    "hostname": "kubnode2",
+    "version": "21.08.525",
+    "lastModified": "2021-12-10T09:23:33.588Z",
+    "type": "daemonset",
+    "category": "container",
+    "connected": true,
+    "features": {
+      "proxyListenerType": "none",
+      "clusterMonitoring": true
+    },
+    "status": {
+      "lastModified": "0001-01-01T00:00:00Z",
+      "appFirewall": {
+        "enabled": true
+      },
+      "image": {
+        "scanTime": "2021-12-10T09:23:34.712Z",
+        "completed": true
+      },
+      "container": {
+        "scanTime": "2021-12-10T09:23:27.187Z",
+        "completed": true
+      },
+      "features": {},
+      "hostCustomCompliance": {}
+    },
+    "fqdn": "kubnode2.f5trn.local",
+    "collections": [
+      "All",
+      "PROD"
+    ],
+    "cloudMetadata": {
+      "accountID": "Non-onboarded cloud accounts"
+    },
+    "clusterID": "a011d9ab-1867-0220-bf63-e7d4ee8cddc5",
+    "cluster": "kubhomelab",
+    "certificateExpiration": "2024-12-02T08:51:00Z",
+    "systemInfo": {
+      "cpuCount": 4,
+      "kernelVersion": "5.10.0-9-cloud-amd64",
+      "totalDiskSpaceGB": 9,
+      "freeDiskSpaceGB": 5,
+      "memoryGB": 15.636043548583984
+    },
+    "remoteMgmtSupported": false,
+    "remoteLoggingSupported": true,
+    "firewallProtection": {
+      "enabled": false,
+      "supported": false
+    },
+    "proxy": {
+      "httpProxy": "",
+      "noProxy": "",
+      "ca": "",
+      "user": "",
+      "password": {
+        "encrypted": ""
+      }
+    },
+    "port": 8084,
+    "compatibleVersion": true
+  },
+  {
+    "hostname": "kubnode1",
+    "version": "21.08.525",
+    "lastModified": "2021-12-10T09:23:54.713Z",
+    "type": "daemonset",
+    "category": "container",
+    "connected": true,
+    "features": {
+      "proxyListenerType": "none",
+      "clusterMonitoring": true
+    },
+    "status": {
+      "lastModified": "0001-01-01T00:00:00Z",
+      "process": {
+        "enabled": true
+      },
+      "features": {},
+      "hostCustomCompliance": {}
+    },
+    "fqdn": "kubnode1.f5trn.local",
+    "collections": [
+      "All",
+      "PROD"
+    ],
+    "cloudMetadata": {
+      "accountID": "Non-onboarded cloud accounts"
+    },
+    "clusterID": "a011d9ab-1867-0220-bf63-e7d4ee8cddc5",
+    "cluster": "kubhomelab",
+    "certificateExpiration": "2024-12-02T08:51:00Z",
+    "systemInfo": {
+      "cpuCount": 4,
+      "kernelVersion": "5.10.0-9-cloud-amd64",
+      "totalDiskSpaceGB": 9,
+      "freeDiskSpaceGB": 3,
+      "memoryGB": 15.636035919189453
+    },
+    "remoteMgmtSupported": false,
+    "remoteLoggingSupported": true,
+    "firewallProtection": {
+      "enabled": false,
+      "supported": false
+    },
+    "proxy": {
+      "httpProxy": "",
+      "noProxy": "",
+      "ca": "",
+      "user": "",
+      "password": {
+        "encrypted": ""
+      }
+    },
+    "port": 8084,
+    "compatibleVersion": true
+  },
+  {
+    "hostname": "kubnode3",
+    "version": "21.08.525",
+    "lastModified": "2021-12-10T09:23:36.374Z",
+    "type": "daemonset",
+    "category": "container",
+    "connected": true,
+    "features": {
+      "proxyListenerType": "none",
+      "clusterMonitoring": true
+    },
+    "status": {
+      "lastModified": "0001-01-01T00:00:00Z",
+      "process": {
+        "enabled": true
+      },
+      "runtime": {
+        "enabled": true
+      },
+      "container": {
+        "scanTime": "2021-12-10T09:23:27.797Z",
+        "completed": true
+      },
+      "features": {},
+      "hostCustomCompliance": {}
+    },
+    "fqdn": "kubnode3.f5trn.local",
+    "collections": [
+      "All",
+      "PROD"
+    ],
+    "cloudMetadata": {
+      "accountID": "Non-onboarded cloud accounts"
+    },
+    "clusterID": "a011d9ab-1867-0220-bf63-e7d4ee8cddc5",
+    "cluster": "kubhomelab",
+    "certificateExpiration": "2024-12-02T08:51:00Z",
+    "systemInfo": {
+      "cpuCount": 4,
+      "kernelVersion": "5.10.0-9-cloud-amd64",
+      "totalDiskSpaceGB": 9,
+      "freeDiskSpaceGB": 6,
+      "memoryGB": 15.636043548583984
+    },
+    "remoteMgmtSupported": false,
+    "remoteLoggingSupported": true,
+    "firewallProtection": {
+      "enabled": false,
+      "supported": false
+    },
+    "proxy": {
+      "httpProxy": "",
+      "noProxy": "",
+      "ca": "",
+      "user": "",
+      "password": {
+        "encrypted": ""
+      }
+    },
+    "port": 8084,
+    "compatibleVersion": true
+  }
+]
